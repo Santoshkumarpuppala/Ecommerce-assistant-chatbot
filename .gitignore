@@ -11,6 +11,7 @@ wheels/
 # Virtual environment
 env/
 venv/
+.venv-ecommchatbot/
 
 # IDE/editor settings
 .vscode/
@@ -29,3 +30,5 @@ venv/
 archive/
 
 .vscode/
+
+data/
