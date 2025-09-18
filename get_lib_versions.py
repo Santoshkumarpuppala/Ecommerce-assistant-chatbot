@@ -4,7 +4,8 @@ packages = [
     "langchain_core",
     "python-dotenv",
     "streamlit",
-    "undetected-chromedriver"
+    "undetected-chromedriver",
+    "langgraph"
 ]
 for pkg in packages:
     try:
